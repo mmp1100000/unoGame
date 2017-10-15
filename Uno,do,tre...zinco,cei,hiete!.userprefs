@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7BE4FA84-EDCF-F7A8-2F4A-C605E237C432}|" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/gameRuntime.cs">
+    <Files>
+      <File FileName="Assets/infoBaraja.cs" Line="33" Column="17" />
+      <File FileName="Assets/gameRuntime.cs" Line="42" Column="30" />
+      <File FileName="Assets/playerCards.cs" Line="26" Column="18" />
+      <File FileName="Assets/machineAI.cs" Line="40" Column="55" />
+      <File FileName="Assets/stackManager.cs" Line="35" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Uno_22Cdo_22Ctre...zinco_22Ccei_22Chiete_221 PreferredExecutionTarget="Unity.Editor" />
+</Properties>
